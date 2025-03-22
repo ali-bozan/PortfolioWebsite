@@ -1,0 +1,4 @@
+body { font-family: 'Poppins', sans-serif; background: #fff5e6; color: #333; }
+header { background: #ff7f50; color: white; padding: 1.5rem; }
+.project img { border: 3px solid #ff7f50; border-radius: 6px; }
+footer { background: #ff7f50; color: white; padding: 1rem; text-align: center; }
